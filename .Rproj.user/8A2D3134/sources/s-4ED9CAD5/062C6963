@@ -1,0 +1,25 @@
+{
+    "id": "062C6963",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1604924377972.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "2bbaed4acdad41589ff5277f8b6bdd6b",
+        "name": "model",
+        "title": "model"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8386112020045652324,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604924377972,
+    "read_only": false,
+    "read_only_alternatives": []
+}

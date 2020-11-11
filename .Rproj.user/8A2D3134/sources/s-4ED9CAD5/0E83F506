@@ -1,0 +1,32 @@
+{
+    "id": "0E83F506",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1605087070712.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "expression": "dataFiltered",
+        "caption": "dataFiltered",
+        "totalObservations": 348349,
+        "displayedObservations": 348349,
+        "variables": 18,
+        "cacheKey": "5369A303",
+        "object": "dataFiltered",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=dataFiltered&cache_key=5369A303&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1605087070712,
+    "read_only": false,
+    "read_only_alternatives": []
+}

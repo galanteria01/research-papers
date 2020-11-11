@@ -1,0 +1,25 @@
+{
+    "id": "5E7F16A3",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1605086933829.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "b61eac6c5ea44f1d8b9ed0b1a7dc9966",
+        "name": "model_fare",
+        "title": "model_fare"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1605086373,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1605086933829,
+    "read_only": false,
+    "read_only_alternatives": []
+}
